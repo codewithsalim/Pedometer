@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Walk</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_start">Start</string>
+    <string name="textview_press_start">Press Start</string>
+    <string name="alt_text_man_walking">Man walking</string>
 </resources>

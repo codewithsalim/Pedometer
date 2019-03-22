@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\.android\build-cache\85d2b5ada6d8711c4f6f27a31d2355248fffc1e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e2c6fb2d079273f92640b8b0d7084f9e2c68063\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2595add9d14837c5a70ee2c3599b4d435f693458">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8ddfc4fa832b8a08e9f6280614cb81cdd23a0a9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\.android\build-cache\8f22a548ba622597a76e6ed4ec5b89777277d7b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c05c34d50c4ca48bbab9fc2822d6bfc296f46f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_6640b6fab67c9715888c67c729a045d186b59c94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\.android\build-cache\2a87b22d90b090b4e178133bfae89b6d508e90c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23bb0594dc0b0619f77216c81e27f3e20318ac16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\.android\build-cache\801e0fc97eaaf2c956a0ca5b8dc0c5812cd6b9fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1dffff74b2100ff3d151d98894b1ce6d7a4ff1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_ab8c74a663f9846402fb9eeeb955d6a79950a199\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\.android\build-cache\624c079c595eafd57874726479faa6dc3bb2712b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4895e106a068e7d41d0f08ac161adfe372cbd2eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\.android\build-cache\4d8ce62886b56b2ef49905c60f1bf4e0a00e726d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f31f115c9405618d4f07d98a22196461601f95c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3a8926240d1b2a0404f291607198ac58643a4884\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\.android\build-cache\42a905e2529edc17ab278b06cd3599dfa84550cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24954e5f05214c3f0f3afb2ec3261b5abba97516\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\.android\build-cache\5a2de0bbce1031b156098445c10463475d93e1d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a2250248ca80b7f6174a70bdeea04940ce5481b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\.android\build-cache\a497f2f18a7952cbffa3acade052817d9ab77636\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a2baa9b97fba0287633b9106cfdc8ef99ef97d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tushar\.android\build-cache\127b35bbdaa752a9a83c97b4f209cb90637c8413\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Tushar\Desktop\Desktop\Sem 8\Pedometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a38a41549c540b18a7bad2ed312e550af4b7dc5\classes.dex" />
+    </item>
+
+</items>
