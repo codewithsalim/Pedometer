@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="tableview-2.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/7ebd7e6a8d53a521545570dbc5437327b0876abe/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/7ebd7e6a8d53a521545570dbc5437327b0876abe/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.codecrafters.tableview/tableview/2.8.0/6b9719aef02ecaf2d66527e80b63a945a154a6c8/tableview-2.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

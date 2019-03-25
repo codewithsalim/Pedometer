@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.saleemshaikh.walk.Activity2">
+
+    <TextView
+        android:id="@+id/historydatatitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your History"
+        tools:layout_editor_absoluteX="154dp"
+        tools:layout_editor_absoluteY="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp" />
+
+    <TextView
+        android:id="@+id/historydata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/historydatatitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="92dp" />
+
+    <de.codecrafters.tableview.TableView
+        xmlns:table="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/tableView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        table:tableView_columnCount="2" />
+
+</RelativeLayout>
